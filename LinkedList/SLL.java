@@ -174,6 +174,5 @@ public static void main(String[] args) {
 	System.out.println("\nReverse a SLL");
 	sll.reverse();
 	sll.display();
-}
-
+	}
 }
